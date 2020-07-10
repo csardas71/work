@@ -1,9 +1,9 @@
 //그림넣는곳
 var bgslides=new Array()      
-bgslides[0]="/images/main/200513_1.jpg"
-bgslides[1]="/images/main/200513_2.jpg"    
-bgslides[2]="/images/main/200513_3.jpg"
-bgslides[3]="/images/main/200324_4.jpg"      
+bgslides[0]="images/main/200513_1.jpg"
+bgslides[1]="images/main/200513_2.jpg"    
+bgslides[2]="images/main/200513_3.jpg"
+bgslides[3]="images/main/200324_4.jpg"      
 
 
          
